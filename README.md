@@ -3,9 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raphael+Pierri+Silva;I'm+a+26+years+old+Electrical+Engineer;and+a+Full+Stack+Developer;I'm+from+Brazil;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
-  
-[!Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpierri&show_icons=true&theme=radical)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpierri&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ 
 </div>
 
 [![Raphael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raphaelpierri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
