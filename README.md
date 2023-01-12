@@ -9,7 +9,7 @@
 </p>
  </div>
 
-[![Raphael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raphaelpierri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Raphael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raphaelpierri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raphaelpierri&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
