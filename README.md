@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raphael+Pierri+Silva;I'm+a+26+years+old+Electrical+Engineer;and+a+Full+Stack+Developer;I'm+from+Brazil;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
- 
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 [![Raphael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raphaelpierri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
